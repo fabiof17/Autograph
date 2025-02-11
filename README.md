@@ -6,6 +6,8 @@ Autograph packages
 Copy the content of the Shadertoy folder in :
 
 	Windows : C:\Users\[user_name]\Documents\LeftAngle\Autograph\My_Packages
+	Linux   : //
+	OSX     : //
 
 
 
