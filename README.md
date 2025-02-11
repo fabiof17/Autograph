@@ -26,5 +26,5 @@ CROK_lowfi : Simulates NES, EGA and Gameboy video out.
 
 CROK_pixelate : Pixelates the image.
 
-
+CROK_voronoi :  Creates voronoi noises.
 
