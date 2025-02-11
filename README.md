@@ -22,6 +22,8 @@ CROK_cel_shading : Simulates Cel shading.
 
 CROK_fast_grain : Simulates a film like grain.
 
+CROK_fractal : Creates a fractal pattern.
+
 CROK_lowfi : Simulates NES, EGA and Gameboy video out.
 
 CROK_pixelate : Pixelates the image.
