@@ -18,6 +18,8 @@ AE_despill : GPU accelerated After Effects despill for Shadertoy.
 
 CROK_blocknoise : Creates blocky textures.
 
+CROK_cel_shading : Simulates Cel shading.
+
 CROK_fast_grain : Simulates a film like grain.
 
 CROK_lowfi : Simulates NES, EGA and Gameboy video out.
