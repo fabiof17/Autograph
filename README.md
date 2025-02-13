@@ -20,6 +20,8 @@ CROK_blocknoise : Creates blocky textures.
 
 CROK_cel_shading : Simulates Cel shading.
 
+CROK_chroma_warp : Creates chromatic aberrations and a barrel distortion.
+
 CROK_convolve : Simulates a Convolve Blur.
 
 CROK_diffuse : Creates a noisy blur.
