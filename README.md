@@ -19,25 +19,58 @@ AE_despill :
 	After Effects despill.
 
 
-CROK_blocknoise : Creates blocky textures.
+CROK_blocknoise : 
 
-CROK_cel_shading : Simulates Cel shading.
+	Creates blocky textures.
 
-CROK_chroma_warp : Creates chromatic aberrations and a barrel distortion.
 
-CROK_convolve : Simulates a Convolve Blur.
+CROK_cel_shading :
 
-CROK_diffuse : Creates a noisy blur.
+	Simulates Cel shading.
 
-CROK_fast_grain : Simulates a film like grain.
 
-CROK_flow : Creates a perlin noise pattern.
+CROK_chroma_warp :
 
-CROK_fractal : Creates a fractal pattern.
+	Creates chromatic aberrations and a barrel distortion.
 
-CROK_lowfi : Simulates NES, EGA and Gameboy video out.
 
-CROK_pixelate : Pixelates the image.
+CROK_convolve :
 
-CROK_voronoi : Creates voronoi noises.
+	Simulates a Convolve Blur.
+
+
+CROK_diffuse :
+
+	Creates a noisy blur.
+
+
+CROK_fast_grain :
+
+	Simulates a film like grain.
+
+
+CROK_flow :
+
+	Creates a perlin noise pattern.
+
+
+CROK_fractal :
+
+	Creates a fractal pattern.
+
+
+CROK_lowfi :
+
+	Simulates NES, EGA and Gameboy video out.
+
+
+CROK_pixelate :
+
+	Pixelates the image.
+
+
+CROK_voronoi :
+
+	Creates voronoi noises.
+
 
