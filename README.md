@@ -14,7 +14,8 @@ Copy the content of the Shadertoy folder in :
 
 ## Available packages :
 
-AE_despill : After Effects despill.
+AE_despill :
+	After Effects despill.
 
 CROK_blocknoise : Creates blocky textures.
 
