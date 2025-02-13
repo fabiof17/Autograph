@@ -24,6 +24,11 @@ CROK_blocknoise :
 	Creates blocky textures.
 
 
+CROK_bloom : 
+
+	Simulates blooming.
+
+
 CROK_cel_shading :
 
 	Simulates Cel shading.
