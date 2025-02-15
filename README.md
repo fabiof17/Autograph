@@ -134,3 +134,20 @@ CROK_voronoi :
 	Creates voronoi noises.
 
 
+PXF_bandpass :
+
+	Extract detail from an image. Useful to make plates easier to track.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
