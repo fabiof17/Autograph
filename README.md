@@ -3,7 +3,7 @@ Autograph packages
 
 ## Installation :
 
-Copy the content of the Shadertoy folder in :
+Copy the content of the Packages folder in :
 
 	Windows : C:\Users\<user>\Documents\LeftAngle\Autograph\My_Packages
 	Linux   : /home/<user/LeftAngle/Autograph
