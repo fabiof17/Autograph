@@ -124,6 +124,11 @@ CROK_pixelate :
 	Pixelates the image.
 
 
+CROK_regrain :
+
+	Simulates film grain.
+
+
 CROK_voronoi :
 
 	Creates voronoi noises.
