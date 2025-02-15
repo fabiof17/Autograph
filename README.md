@@ -139,7 +139,9 @@ PXF_bandpass :
 	Extract detail from an image. Useful to make plates easier to track.
 
 
+PXF_chroma_blur :
 
+	Blur chrominance without affecting luminance. Useful to repair some chroma artifacts in digital video.
 
 
 
