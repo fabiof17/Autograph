@@ -134,6 +134,11 @@ CROK_regrain :
 	Simulates film grain.
 
 
+CROK_vhs :
+
+	Simulates an old VHS player
+
+
 CROK_voronoi :
 
 	Creates voronoi noises.
