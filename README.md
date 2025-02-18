@@ -29,6 +29,11 @@ CROK_6567 :
 	Simulates the color palette of a VIC-2 or better known as on of the famous C64 chips.
 
 
+CROK_ascii_art : 
+
+	Generates ascii art.
+
+
 CROK_blocknoise : 
 
 	Creates blocky textures.
