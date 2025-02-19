@@ -104,6 +104,26 @@ CROK_fractal :
 	Creates a fractal pattern.
 
 
+CROK_hexagon :
+
+	Samples from the nearest hexagon to the pixel.
+
+
+CROK_highpass :
+
+	Simulates a HighPass filter effect.
+
+
+CROK_instagram :
+
+	Shader gives you the typical Instagram looks.
+
+
+CROK_kuwahara :
+
+	Shader simulates anisotropic kuwahara filtering.
+
+
 CROK_lens_blur :
 
 	Creates a Lens Blur effect.
@@ -142,6 +162,11 @@ CROK_vhs :
 CROK_voronoi :
 
 	Creates voronoi noises.
+
+
+LS_dollface :
+
+	blend similar colours with a bilateral filter whilst preserving edges, to remove grain or wrinkles.
 
 
 PXF_bandpass :
