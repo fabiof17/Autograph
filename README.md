@@ -169,6 +169,11 @@ LS_dollface :
 	blend similar colours with a bilateral filter whilst preserving edges, to remove grain or wrinkles.
 
 
+LS_spline_blur :
+
+	Directional blur along the edges of a shape.
+
+
 PXF_bandpass :
 
 	Extract detail from an image. Useful to make plates easier to track.
