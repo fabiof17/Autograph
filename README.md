@@ -139,6 +139,11 @@ CROK_lowfi :
 	Simulates NES, EGA and Gameboy video out.
 
 
+CROK_oil_paint :
+
+	Shader applies a painterly effet to the image.
+
+
 CROK_pixel_stretch :
 
 	Creates a Pixelspread type stretch effect.
