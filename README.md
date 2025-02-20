@@ -164,6 +164,11 @@ CROK_regrain :
 	Simulates film grain.
 
 
+CROK_sketch :
+
+	Creates a sketch type look.
+
+
 CROK_turbulence :
 
 	Creates a water turbulence texture.
