@@ -74,6 +74,11 @@ CROK_crt :
 	Creates a CRT style scan-line effect with additional shadowmasking.
 
 
+CROK_deband :
+
+	Reduces banding.
+
+
 CROK_diffuse :
 
 	Creates a noisy blur.
@@ -116,12 +121,12 @@ CROK_highpass :
 
 CROK_instagram :
 
-	Shader gives you the typical Instagram looks.
+	Gives you the typical Instagram looks.
 
 
 CROK_kuwahara :
 
-	Shader simulates anisotropic kuwahara filtering.
+	Simulates anisotropic kuwahara filtering.
 
 
 CROK_lens_blur :
@@ -141,7 +146,7 @@ CROK_lowfi :
 
 CROK_oil_paint :
 
-	Shader applies a painterly effet to the image.
+	Applies a painterly effet to the image.
 
 
 CROK_pixel_stretch :
@@ -159,6 +164,11 @@ CROK_regrain :
 	Simulates film grain.
 
 
+CROK_turbulence :
+
+	Creates a water turbulence texture.
+
+
 CROK_vhs :
 
 	Simulates an old VHS player
@@ -171,7 +181,7 @@ CROK_voronoi :
 
 LS_dollface :
 
-	blend similar colours with a bilateral filter whilst preserving edges, to remove grain or wrinkles.
+	Blend similar colours with a bilateral filter whilst preserving edges, to remove grain or wrinkles.
 
 
 LS_spline_blur :
